@@ -12,7 +12,7 @@ A website that offers fitness training services.
 
 ## Website
 
-https://jay1194.github.io/Run-Buddy-Module1-HTML/
+https://jay1194.github.io/Run-Buddy/
 
 ## Contribution
 
